@@ -1,0 +1,24 @@
+{
+  "name": "firebase-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "browser-sync": "browser-sync start --server --files \"*.html, js/main.js, css/*.css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurimaskarvelis/Firebase-Chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  },
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/aurimaskarvelis/Firebase-Chat/issues"
+  },
+  "homepage": "https://github.com/aurimaskarvelis/Firebase-Chat#readme"
+}

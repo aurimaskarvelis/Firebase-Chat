@@ -1,0 +1,30 @@
+h1 {
+    text-align: left;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.chat-box {
+    align-items: center;
+    justify-content: center;
+    margin-top: 5em;
+    flex-direction: column;
+    height: 100%;
+    width: 50%;
+    background-color: antiquewhite;
+}
+
+.chat-area {
+    width: 100%;
+    margin: 3em;
+}
+
+.chat-response {
+    padding-top: 2em;
+}
+
+.chat-response input {
+    margin: 3em;
+}
